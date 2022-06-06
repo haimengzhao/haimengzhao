@@ -17,6 +17,11 @@ My research interests include:
 ![](https://github-readme-stats.vercel.app/api?username=JasonZHM)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonZHM&layout=compact&langs_count=6)
 
 <!--START_SECTION:waka-->
+
+```text
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
