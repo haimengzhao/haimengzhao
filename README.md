@@ -19,7 +19,9 @@ My research interests include:
 <!--START_SECTION:waka-->
 
 ```text
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   2 mins          ████████████████████░░░░░   79.82 %
+Bash     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
+Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
 ```
 
 <!--END_SECTION:waka-->
