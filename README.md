@@ -5,9 +5,9 @@ I am Haimeng Zhao (赵海萌), an undergraduate of physics at Tsinghua Universit
 My research interests include:
 
 - AI for Science, especially Physics & Astrophysics
-  - I'm building a machine learning pipeline for microlensing analysis at realistic quality. Will be released soon!
+  - I've developed [MAGIC](https://github.com/JasonZHM/magic-microlensing), a machine learning pipeline for microlensing analysis with realistic data quality. 
 - Quantum Information, Algorithms & Machine Learning
-  - I've developed a quantum generative learning model based on variational qPCA. It conceptually unifies GAN, VAE & Flow in the quantum regime. [Check it out here!](https://github.com/JasonZHM/g-qpca)
+  - I've proposed a quantum generative learning model based on variational qPCA. It conceptually unifies GAN, VAE & Flow in the quantum regime. [Check it out here!](https://github.com/JasonZHM/g-qpca)
 - Quantum Many-body Physics, Theory & Computation
   - I'm actively learning about both the theoretical and computational aspects of condensed matter physics. It from Qubit!
 - Machine Learning Stuffs
