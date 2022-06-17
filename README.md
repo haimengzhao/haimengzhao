@@ -19,10 +19,10 @@ My research interests include:
 <!--START_SECTION:waka-->
 
 ```text
-TeX        21 mins         ███████████████████████▓░   94.11 %
-Python     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+TeX          21 mins         ████████████████████░░░░░   80.29 %
+Git Config   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+Python       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
