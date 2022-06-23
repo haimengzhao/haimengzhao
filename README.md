@@ -19,12 +19,12 @@ My research interests include:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 52 mins    ██████████████████░░░░░░░   71.70 %
-TOML         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Python       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-BibTeX       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python       4 hrs 31 mins   ████████████████░░░░░░░░░   63.77 %
+Markdown     2 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.43 %
+TOML         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+BibTeX       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
