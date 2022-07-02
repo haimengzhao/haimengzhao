@@ -19,9 +19,7 @@ My research interests include:
 <!--START_SECTION:waka-->
 
 ```text
-Python     52 mins         ████████████████████████░   95.99 %
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
