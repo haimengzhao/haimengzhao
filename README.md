@@ -10,7 +10,7 @@ My research interests include:
   - I've proposed a quantum generative learning model based on variational qPCA. It conceptually unifies GAN, VAE & Flow in the quantum regime. [Check it out here!](https://github.com/JasonZHM/g-qpca)
 - Quantum Many-body Physics, Theory & Computation
   - I'm actively learning about both the theoretical and computational aspects of condensed matter physics. It from Qubit!
-- Machine Learning Stuffs
+- Machine Learning Stuff
   - I'm collabrating with my friends on a federated learning framework.
   - If you're looking for an implementation of mixture density network / gaussian mixture model with full covariance matrices, [check this out!](https://github.com/JasonZHM/full-cov-mdn)
 
