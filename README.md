@@ -5,14 +5,14 @@ I am Haimeng Zhao (赵海萌), an undergraduate of physics at Tsinghua Universit
 My research interests include:
 
 - AI for Science, especially Physics & Astrophysics
-  - I've developed [MAGIC](https://github.com/JasonZHM/magic-microlensing), a machine learning pipeline for microlensing analysis with realistic data quality. 
+  - I developed [MAGIC](https://github.com/JasonZHM/magic-microlensing), a machine learning pipeline for microlensing analysis with realistic data quality. 
 - Quantum Information, Algorithms & Machine Learning
-  - I've proposed a quantum generative learning model based on variational qPCA. It conceptually unifies GAN, VAE & Flow in the quantum regime. [Check it out here!](https://github.com/JasonZHM/g-qpca)
+  - I studied quantum generative learning, and designed a variational qPCA running backwards as a generative model: [G-qPCA](https://github.com/JasonZHM/g-qpca).
+  - I studied the non-IID quagmire in quantum federated learning, and proposed an alternative called [quantum federated inference](https://github.com/JasonZHM/quantum-fed-infer).
 - Quantum Many-body Physics, Theory & Computation
-  - I'm actively learning about both the theoretical and computational aspects of condensed matter physics. It from Qubit!
+  - I'm actively learning about both the theoretical and computational aspects of condensed matter physics.
 - Machine Learning Stuff
-  - I'm collabrating with my friends on a federated learning framework.
-  - If you're looking for an implementation of mixture density network / gaussian mixture model with full covariance matrices, [check this out!](https://github.com/JasonZHM/full-cov-mdn)
+  - I implemented a [full covariance version](https://github.com/JasonZHM/full-cov-mdn) of the mixture density network / gaussian mixture model
 
 ![](https://github-readme-stats.vercel.app/api?username=JasonZHM)![](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonZHM&layout=compact&langs_count=6)
 
