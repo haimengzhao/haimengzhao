@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=haimengzhao)
 
-I am Haimeng Zhao (赵海萌), an undergraduate of physics at Tsinghua University. 
+I am Haimeng Zhao (赵海萌), a PhD student in Physics at Caltech. I received my Bachelor's degree in Mathematics and Physics with Honours from Tsinghua University in 2024.
 
 My research interests include:
 
@@ -10,7 +10,6 @@ My research interests include:
   - I studied quantum generative learning, and designed a variational qPCA running backwards as a generative model: [G-qPCA](https://github.com/haimengzhao/g-qpca).
   - I studied the non-IID quagmire in quantum federated learning, and proposed an alternative called [quantum federated inference](https://github.com/haimengzhao/quantum-fed-infer).
 - Quantum Many-body Physics, Theory & Computation
-  - I'm actively learning about both the theoretical and computational aspects of condensed matter physics.
 - Machine Learning Stuff
   - I implemented a [full covariance version](https://github.com/haimengzhao/full-cov-mdn) of the mixture density network / gaussian mixture model
 
