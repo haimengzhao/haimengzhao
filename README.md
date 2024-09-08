@@ -4,12 +4,15 @@ I am Haimeng Zhao (赵海萌), a PhD student in Physics at Caltech. I received m
 
 My research interests include:
 
+
+- Quantum Information, Algorithms & Machine Learning
+  - I have worked on quantum state tomography [with bounded gate complexity](https://github.com/haimengzhao/bounded-gate-tomography) and [with neural quantum states](https://github.com/netket/netket).
+  - I studied the non-IID quagmire in quantum federated learning, and proposed an alternative called [quantum federated inference](https://github.com/haimengzhao/quantum-fed-infer).
+  - I studied quantum generative learning, and designed a variational qPCA running backwards as a generative model: [G-qPCA](https://github.com/haimengzhao/g-qpca).
+  
+- Quantum Many-body Physics, Theory & Computation
 - AI for Science, especially Physics & Astrophysics
   - I developed [MAGIC](https://github.com/haimengzhao/magic-microlensing), a machine learning pipeline for microlensing analysis with realistic data quality. 
-- Quantum Information, Algorithms & Machine Learning
-  - I studied quantum generative learning, and designed a variational qPCA running backwards as a generative model: [G-qPCA](https://github.com/haimengzhao/g-qpca).
-  - I studied the non-IID quagmire in quantum federated learning, and proposed an alternative called [quantum federated inference](https://github.com/haimengzhao/quantum-fed-infer).
-- Quantum Many-body Physics, Theory & Computation
 - Machine Learning Stuff
   - I implemented a [full covariance version](https://github.com/haimengzhao/full-cov-mdn) of the mixture density network / gaussian mixture model
 
